@@ -1,0 +1,28 @@
+.logo{
+    height: 70px;
+    width: auto;
+    border-radius: 10px;
+}
+
+.redes-sociales > ul > li > a{
+    color: white;
+}
+
+.redes-sociales > ul > li > a > img{
+    width: 40px;
+    height: auto;
+}
+
+.redes-sociales > ul{
+    list-style: none;
+}
+
+.redes-sociales > ul > li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.redes-sociales{
+    width: 40%;
+    margin: 0 auto;
+}
